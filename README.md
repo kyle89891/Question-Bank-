@@ -35,12 +35,14 @@ Django(ORM)
 
 sqlite
 
-![Screenshot (261)](https://github.com/kyle89891/Question-Bank-/assets/81356431/bd85337a-a1b2-4d30-8d87-3824752ccb58)
-
-
 HTML
 
 CSS
 
 Bootstrap
+
+![Screenshot (261)](https://github.com/kyle89891/Question-Bank-/assets/81356431/bd85337a-a1b2-4d30-8d87-3824752ccb58)
+
+
+
 
