@@ -13,6 +13,10 @@ Marks Calculation: The system calculates and displays marks based on the user's 
 
 Responsive Design: The application is designed using Bootstrap to ensure compatibility across various devices.
 
+
+![Screenshot (259)](https://github.com/kyle89891/Question-Bank-/assets/81356431/7373754d-bf13-4d71-8294-6df600b9b459)
+
+
 Usage-
 
 Register a new account or login with existing credentials.
@@ -21,14 +25,22 @@ Navigate through the available options to manage questions, take quizzes, and vi
 
 Logout from the application when done.
 
+
+![Screenshot (260)](https://github.com/kyle89891/Question-Bank-/assets/81356431/b149d096-0bcd-4baf-a91e-0ed461a42d2a)
+
+
 Technologies Used-
 
 Django(ORM)
 
 sqlite
 
+![Screenshot (261)](https://github.com/kyle89891/Question-Bank-/assets/81356431/bd85337a-a1b2-4d30-8d87-3824752ccb58)
+
+
 HTML
 
 CSS
 
 Bootstrap
+
